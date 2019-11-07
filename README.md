@@ -54,6 +54,7 @@ By the end of this hands-on lab, you will have learned how to use several key se
 ## Related references
 
 - [MCW](https://github.com/Microsoft/MCW)
+- [Azure App Service Migration Assistant](https://appmigration.microsoft.com/)
 
 ***Having trouble?***
 - First, verify you have followed all written lab instructions (including the Before the Hands-on lab document).
