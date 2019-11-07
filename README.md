@@ -1,14 +1,15 @@
-# Modern cloud apps
+# .NET App Migration
 
-The Contoso Sports League Association (CSLA) is one of the largest sports franchises and is struggling to keep up with demand from their growing user base. They currently host an e-commerce website and have a backend website that supports their call center, allowing employees to view order information.
+The Contoso Sports League Association (CSLA) is one of the largest sports franchises and is struggling to keep up with demand from their growing user base. They currently host an e-commerce .NET ASP website and have a backend website that supports their call center, allowing employees to view order information.
 
 CSLA would like to modernize their websites and move to the cloud, ultimately moving away from managing infrastructure. They are interested in whether Platform-as-a-Service (PaaS) will meet their needs so they can completely remove the infrastructure management overhead. However, they are concerned about securing their websites and data to meet the stringent PCI (Payment Card Industry) compliance requirements.
 
-September 2019
+November 2019
 
-## Target audience
+## Before you start
 
-Application developers
+- Review Welcome Video on [Microsoft Cloud Workshop homepage](https://microsoftcloudworkshop.com/) to understand the concept of Microsoft Cloud Workshops
+- Review [How to deliver Microsoft Cloud Workshop](https://microsoftcloudworkshop.com/HowToDeliver/) content
 
 ## Abstracts
 
@@ -50,17 +51,9 @@ By the end of this hands-on lab, you will have learned how to use several key se
 - Visual Studio 2019 Community Edition or later
 - Twilio (third-party service to send SMS messages)
 
-## Azure solutions
-
-App Modernization
-
 ## Related references
 
 - [MCW](https://github.com/Microsoft/MCW)
-
-## Help & Support
-
-We welcome feedback and comments from Microsoft SMEs & learning partners who deliver MCWs.  
 
 ***Having trouble?***
 - First, verify you have followed all written lab instructions (including the Before the Hands-on lab document).
@@ -69,4 +62,4 @@ We welcome feedback and comments from Microsoft SMEs & learning partners who del
 
 If you are planning to present a workshop, *review and test the materials early*! We recommend at least two weeks prior.
 
-### Please allow 5 - 10 business days for review and resolution of issues.
+Leave your comments by creating a new topic in Issues section or send an email to kirilk@microsoft.com with any questions.
